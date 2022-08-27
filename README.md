@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Aniekan Udo </h1>
 <p>👀 I’m interested in code for healthcare and businesses👩‍💻, 
-🌱 currently learning software engineering at ALX
-💞️ and looking to collaborate on software development for finance, business, health apps and more.
-🎉 You're welcome to my hub, I'm expecting messages from you
+🌱 currently learning software engineering at ALX,
+💞️ and looking to collaborate on software development for finance, business, health care and more.
+🎉 You are welcome to my hub👩‍💻 . <p>I'm expecting messages from you💌</p> 
 </p>
 <h2>📫 REACH ME ON </h2>
  <p> 
