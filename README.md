@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
-<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="50%"/></p>
+<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="500px"/></p>
