@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniekan Udo</h1>
-<img src="https://github.com/Dr-Aniekan-Udo/Dr-Aniekan-Udo/blob/main/Image1.JPG" width="100px" height="100px"/>
+<p align="center"><img src="https://github.com/Dr-Aniekan-Udo/Dr-Aniekan-Udo/blob/main/Image1.JPG" width="auto" height="auto"/></p>
 <h3 align="center">I'm a passionate fullstack developer, a medical professional, and an intuitive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-aniekan-udo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-aniekan-udo" /> </p>
@@ -7,19 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/anigram3" target="blank"><img src="https://img.shields.io/twitter/follow/anigram3?logo=twitter&style=for-the-badge" alt="anigram3" /></a> </p>
 
-- 🔭 I’m currently working on **ALX software engineering projects**
+<p>👀 I’m interested in code for healthcare and businesses👨‍💻, 
+🌱 currently learning software engineering at ALX,
+💞️ and looking  to collaborate on software development for finance, business, health care and more.
+🎉 You are welcome to my hub🛀 . <p>I'm expecting messages from you💌</p> 
 
-- 🌱 I’m currently learning **Devops, frontend and backend**
+- ⚡ Fun fact😁 **I code at night and sleep in the day**
 
-- 👯 I’m looking to collaborate on **Health care, , and fintech**
-
-- 🤝 I’m looking for help with **Mentoring, internships,technical resources and hands on open source projects**
-
-- 📫 How to reach me ****
-
-- ⚡ Fun fact **I code at night and sleep in the day**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:📫</h3>
 <p align="left">
 <a href="https://twitter.com/anigram3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anigram3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniekan-udo-762429208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniekan-udo-762429208" height="30" width="40" /></a>
@@ -35,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
-<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="500px"/></p>
+<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="Auto"/></p>
