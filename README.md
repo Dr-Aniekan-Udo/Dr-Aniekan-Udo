@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniekan Udo</h1>
-<img src="https://media.giphy.com/media/sxSbWIJ1VhbOhDyOtG/giphy.gif" align="middle" height="100px"/>
-<h3 align="center">I'm a passionate fullstack developer, a medical professional, an intuitive learner and an innovative business manager</h3>
+<img src="https://github.com/Dr-Aniekan-Udo/Dr-Aniekan-Udo/blob/main/Image1.JPG" width="100px" height="100px"/>
+<h3 align="center">I'm a passionate fullstack developer, a medical professional, and an intuitive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-aniekan-udo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-aniekan-udo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-aniekan-udo" alt="dr-aniekan-udo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anigram3" target="blank"><img src="https://img.shields.io/twitter/follow/anigram3?logo=twitter&style=for-the-badge" alt="anigram3" /></a> </p>
 
@@ -16,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Mentoring, internships,technical resources and hands on open source projects**
 
-- 📫 How to reach me **anibrownudo400@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I code at night and sleep in the day**
 
@@ -36,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
-<p><img src="https://giphy.com/gifs/xbox-minecraft-xbox-series-x-s-S2TYX4ImfcoP5fPbrq" a/></p>
+<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="50%"/></p>
