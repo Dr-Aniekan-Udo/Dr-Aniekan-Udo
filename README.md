@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
-<h2 align="center">Our Mission</h2><br>Committed to Health care enhancement and community development through human development and advanced technology in Africa 
+<h2 align="center">Our Mission</h2><br>Committed to Health care enhancement and community development through human empowerment and advanced technology in Africa 
