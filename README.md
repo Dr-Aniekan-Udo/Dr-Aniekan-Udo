@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniekan Udo</h1>
-<p align="center"><img src="Banner.jpg" width="1000" height="500"/></p>
+<h1 align="center">👨‍⚕️MEDITECH HUB💻</h1>
+<p align="center"><img src="Foot.GIF" /></p>
 <h3 align="center">I'm a passionate fullstack developer, a medical professional, and an intuitive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-aniekan-udo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-aniekan-udo" /> </p>
@@ -29,4 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /><br><img src="Foot.GIF" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
+<h2 align="center">Our Mission</h2><br>Committed to Health care enhancement and community development through human development and advanced technology in Africa 
