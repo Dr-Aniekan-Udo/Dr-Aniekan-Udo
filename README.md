@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniekan Udo</h1>
-<p align="center"><img src="https://github.com/Dr-Aniekan-Udo/Dr-Aniekan-Udo/blob/main/Image1.JPG" width="auto" height="auto"/></p>
+<p align="center"><img src="Banner.jpg" width="1000" height="500"/></p>
 <h3 align="center">I'm a passionate fullstack developer, a medical professional, and an intuitive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-aniekan-udo&label=Profile%20views&color=0e75b6&style=flat" alt="dr-aniekan-udo" /> </p>
@@ -29,5 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-aniekan-udo&show_icons=true&locale=en" alt="dr-aniekan-udo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /></p>
-<p><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /><img align="right" src="https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif" height="250px" width="Auto"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-aniekan-udo&" alt="dr-aniekan-udo" /><br><img src="https://media.giphy.com/media/yvzK4m2EoIKs9K0GoF/giphy.gif" /></p>
