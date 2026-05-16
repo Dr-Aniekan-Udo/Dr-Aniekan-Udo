@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#141414"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+  
+  <!-- Subtle grid -->
+  <g stroke="#262626" stroke-width="0.5" opacity="0.4">
+    <line x1="0" y1="50" x2="800" y2="50"/>
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+  </g>
+  
+  <!-- Code brackets -->
+  <g fill="none" stroke="#262626" stroke-width="2" opacity="0.6">
+    <path d="M 320 70 L 300 70 L 300 130 L 320 130"/>
+    <path d="M 480 70 L 500 70 L 500 130 L 480 130"/>
+  </g>
+  
+  <!-- Accent line -->
+  <rect x="0" y="95" width="800" height="2" fill="url(#accent)" opacity="0.6"/>
+  
+  <!-- Animated typing text -->
+  <text x="400" y="85" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="28" font-weight="700" fill="#e5e5e5" letter-spacing="0.05em">
+    <tspan>Aniekan Udo</tspan>
+  </text>
+  
+  <text x="400" y="115" text-anchor="middle" font-family="'Fira Code', monospace" font-size="14" font-weight="400" fill="#a3a3a3" letter-spacing="0.1em">
+    <tspan>Medical Student &amp; AI Software Engineer</tspan>
+  </text>
+  
+  <text x="400" y="140" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" font-weight="400" fill="#737373" letter-spacing="0.15em">
+    <tspan>BRIDGING HEALTHCARE &amp; TECHNOLOGY</tspan>
+  </text>
+  
+  <!-- Blinking cursor -->
+  <rect x="540" y="128" width="8" height="16" fill="#f59e0b" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Small amber dot -->
+  <circle cx="400" cy="165" r="3" fill="#f59e0b" opacity="0.8"/>
+</svg>
