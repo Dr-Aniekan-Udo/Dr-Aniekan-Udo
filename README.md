@@ -50,7 +50,7 @@ I'm building AI solutions that bridge healthcare and technology for Sub-Saharan 
 
 <table>
   <tr>
-    <td width="20%"><b>Jan – Sep 2024</b></td>
+    <td width="20%"><b>Jan – Sep 2025</b></td>
     <td>
       <b>Medical Image AI Engineer</b><br/>
       <sub>SPARK Academy by CAMERA MRI Africa</sub><br/>
