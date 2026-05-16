@@ -6,16 +6,16 @@
 <!-- Quick Links -->
 <p align="center">
   <a href="https://dr-aniekan-udo.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge&logoColor=f59e0b&labelColor=141414" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=astro&logoColor=f59e0b&labelColor=141414" alt="Portfolio"/>
   </a>
   <a href="https://arxiv.org/abs/2511.02928" target="_blank">
-    <img src="https://img.shields.io/badge/🔬_Research-0a0a0a?style=for-the-badge&logoColor=f59e0b&labelColor=141414" alt="Research"/>
+    <img src="https://img.shields.io/badge/Research-0a0a0a?style=for-the-badge&logo=arxiv&logoColor=f59e0b&labelColor=141414" alt="Research"/>
   </a>
   <a href="https://www.linkedin.com/in/aniekan-etim-udo" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f59e0b&labelColor=141414" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f59e0b&labelColor=141414" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aniekanetimudo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f59e0b&labelColor=141414" alt="Email"/>
+  <a href="mailto:aniekanetimudo+reachout@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f59e0b&labelColor=141414" alt="Email"/>
   </a>
 </p>
 
@@ -30,15 +30,17 @@ Dual-degree candidate pursuing <strong>MB;BS (Medicine & Surgery)</strong> at Un
 I'm building AI solutions that bridge healthcare and technology for Sub-Saharan Africa — from medical image segmentation to agentic AI systems and fullstack applications.
 </p>
 
-<!-- Stats Row -->
+<!-- Quick Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dr-aniekan-udo&label=Profile%20Views&color=f59e0b&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Published%20Research-1-f59e0b?style=flat-square&logo=arxiv&logoColor=white&labelColor=0a0a0a" alt="Research"/>
+  <img src="https://img.shields.io/badge/Published_Research-1-f59e0b?style=flat-square&labelColor=0a0a0a" alt="Published Research"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Programs-f59e0b?style=flat-square&labelColor=0a0a0a" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-6+_Programs-f59e0b?style=flat-square&labelColor=0a0a0a" alt="Experience"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Degrees-2%20In%20Progress-f59e0b?style=flat-square&labelColor=0a0a0a" alt="Degrees"/>
+  <img src="https://img.shields.io/badge/Degrees-2_In_Progress-f59e0b?style=flat-square&labelColor=0a0a0a" alt="Degrees"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos-12+-f59e0b?style=flat-square&labelColor=0a0a0a&logo=github" alt="Repos"/>
 </p>
 
 ---
@@ -148,7 +150,7 @@ Accepted at <strong>WiML Workshop, NeurIPS 2025</strong>. We propose <strong>Seg
 <p>
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=f59e0b" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=f59e0b" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0a0a0a?style=flat-square&logo=opencv&logoColor=f59e0b" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0a0a0a?style=flat-square&logo=opencv&logoColor=f59e0b" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/NLP-0a0a0a?style=flat-square&logo=spacy&logoColor=f59e0b" alt="NLP"/>
 </p>
 
@@ -175,7 +177,7 @@ Accepted at <strong>WiML Workshop, NeurIPS 2025</strong>. We propose <strong>Seg
   <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=f59e0b" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=f59e0b" alt="AWS"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=f59e0b" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=f59e0b" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=f59e0b" alt="GitHub Actions"/>
 </p>
 
 ---
@@ -184,8 +186,12 @@ Accepted at <strong>WiML Workshop, NeurIPS 2025</strong>. We propose <strong>Seg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Aniekan-Udo&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f59e0b&text_color=e5e5e5&icon_color=f59e0b&border_color=262626&hide_border=false" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Aniekan-Udo&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f59e0b&text_color=e5e5e5&icon_color=f59e0b&border_color=262626&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Aniekan-Udo&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f59e0b&text_color=e5e5e5&border_color=262626&hide_border=false" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <sub><i>Note: GitHub Stats cards may occasionally show "Error Fetching Resource" due to API rate limits. Refresh the page to retry.</i></sub>
 </p>
 
 ---
@@ -213,9 +219,13 @@ Accepted at <strong>WiML Workshop, NeurIPS 2025</strong>. We propose <strong>Seg
   <a href="https://twitter.com/anigram3" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=f59e0b&labelColor=0a0a0a" alt="Twitter"/>
   </a>
-  <a href="mailto:aniekanetimudo@gmail.com" target="_blank">
+  <a href="mailto:aniekanetimudo+reachout@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f59e0b&labelColor=0a0a0a" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>📧 <code>aniekanetimudo+reachout [at] gmail [dot] com</code> | 💼 Preferred: <a href="https://www.linkedin.com/in/aniekan-etim-udo" target="_blank">LinkedIn</a></sub>
 </p>
 
 ---
